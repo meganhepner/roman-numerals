@@ -22,6 +22,7 @@
 | :-------------     | :------------- | :------------- |
 | **Check to see if input is whole number** | 100 | true |
 | **Check number to make sure the number is less than 4,000**| 5,000 | false |
+| **Convert basic numbers to roman numerals** | 5 | V |
 | **Split whole number into Roman Numeral components** | 163 | 100, 50, 10, 1, 1, 1 |
 | **Convert components into Roman Numerals** | 163 | C, L, X, I, I, I |
 | **
