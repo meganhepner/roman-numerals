@@ -2,7 +2,7 @@
 # _roman-numerals_
 
 
-#### _JavaScript Algorithm, 6.3.20_
+#### _JavaScript Algorithm, 6.11.20_
 
 #### By _**Megan Hepner and Ben White**_
 
